@@ -1,1 +1,5 @@
 print("Hola Mundo")
+a = int(input("Escribe un número: "))
+b = int(input("Escribe otro numero: "))
+c = a + b
+print("La suma de los números es:", c)
