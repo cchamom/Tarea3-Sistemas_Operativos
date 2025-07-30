@@ -3,3 +3,7 @@ a = int(input("Escribe un número: "))
 b = int(input("Escribe otro numero: "))
 c = a + b
 print("La suma de los números es:", c)
+
+print("===================================")
+c = a - b
+print("La resta de los números es:", c)
